@@ -44,10 +44,31 @@ Wifi-SLD هي أداة هجوم لاسلكية آلية.
 تنفيذ
 لتنزيل Wifi-SLD وتنفيذه، قم بتشغيل الأوامر أدناه:
 
-git clone
+apt update && apt upgrade
+
+pkg install update && pkg install upgrade
+
+pkg update
+
+pkg upgrade
+
+apt install git curl
+
+pkg install python
+
+pkg install python2
+
 https://github.com/jobircek5/Wifi-SLD.git
-cd Wifi-SLD
-python Wifi-SLD.py
+
+ls
+
+cd wifi.py
+
+os
+
+ls
+
+python2 wifi.py
 
 
 البرامج المطلوبة
