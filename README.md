@@ -151,10 +151,31 @@ Wifite assumes that you have a wireless card and the appropriate drivers that ar
 Execution
 To download and execute wifite, run the commands below:
 
-git clone
+apt update && apt upgrade
+
+pkg install update && pkg install upgrade
+
+pkg update
+
+pkg upgrade
+
+apt install git curl
+
+pkg install python
+
+pkg install python2
+
 https://github.com/jobircek5/Wifi-SLD.git
-cd Wifi-SLD
-python Wifi-SLD.py
+
+ls
+
+cd wifi.py
+
+os
+
+ls
+
+python2 wifi.py
 
 Required Programs
 Please see the installation guide on the wiki for help installing any of the tools below.
